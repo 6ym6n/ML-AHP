@@ -3,7 +3,7 @@ A Hybrid Decision-Making System Combining Machine Learning and AHP for Criteria 
 
 Since you're using **Vite** for the frontend, I'll update the README to reflect that. Here's the revised version:
 
-```
+
 # ML-AHP: Machine Learning Analytic Hierarchy Process
 
 ML-AHP combines Machine Learning techniques with the Analytic Hierarchy Process (AHP) to enhance decision-making by automating the weighting of criteria and ranking of alternatives.
